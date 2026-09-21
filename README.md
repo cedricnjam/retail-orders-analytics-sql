@@ -17,7 +17,7 @@ Analyser la performance des ventes d'un distributeur multi-catégories pour rép
 
 ---
 
-## 🧮 Compétences SQL Utilisées
+##  Compétences SQL Utilisées
 
 - **Agrégations et calculs statistiques :** `COUNT()`, `SUM()`, `AVG()`, `ROUND()`.
 - **Regroupement et tri :** `GROUP BY`, `ORDER BY`, `LIMIT`.
