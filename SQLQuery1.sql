@@ -1,8 +1,5 @@
 /* ==============================================================================
    PROJET : Analyse Commerciale & Ventes Retail
-   NIVEAU : Intermédiaire
-   AUTEUR : Cedric Njamen
-   DATE   : Juillet 2026
 ============================================================================== */
 
 -- 1. Aperçu général et volume total de ventes
