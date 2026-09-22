@@ -1,7 +1,5 @@
 /* ==============================================================================
    PROJET : Retail Orders Performance Analytics
-   STACK  : SQL Server (T-SQL)
-   AUTEUR : Cédric Njamen
 ============================================================================== */
 
 USE RetailDB;
